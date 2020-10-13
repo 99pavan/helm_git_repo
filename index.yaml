@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  gitrepotest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-10-13T19:12:11.4073341+05:30"
+    description: Pushing to Git Repository
+    digest: aad2454e512db2ffa2b2ab2d8a76f7d3d33e7186aadc165a4d28097bd68030f1
+    name: gitrepotest
+    type: application
+    urls:
+    - gitrepotest-0.1.0.tgz
+    version: 0.1.0
+  gitrepotest2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-10-13T19:12:11.4092912+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 062c263ae1b7db11b815c4a59e8d5cba4d73bc450f91c0f205e28b93af8e6d73
+    name: gitrepotest2
+    type: application
+    urls:
+    - gitrepotest2-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-10-13T19:12:11.3917163+05:30"
