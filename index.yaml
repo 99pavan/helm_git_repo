@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gitrepotest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-10-13T18:39:09.5252286+05:30"
+    description: Pushing to Git Repository
+    digest: 6783b79b05e8092c2e9c2231cc969f8bb422965ea4764fceae3f9dc191e21788
+    name: gitrepotest
+    type: application
+    urls:
+    - gitrepotest-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-10-13T18:39:09.4407402+05:30"
